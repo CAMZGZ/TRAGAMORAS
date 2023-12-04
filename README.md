@@ -19,7 +19,7 @@
 
 
 
-<h2>Costos</h2>
+<h2>II. Costos</h2>
   <table>
     <thead>
     <tr>
@@ -228,5 +228,9 @@
       </tr>
     </tbody>
   </table>
-
-
+<h1>III.	Desarrollo del proyecto</h1>
+<ul>
+<li>1. 1.	Se empezó soldando los pines del lector RFID y la búsqueda de librerías para el uso del lector en el Arduino, así como la realización del código que se adapte a la forma en cómo se comunicara con la Raspberry.</li>
+<li>G</li>
+<li>M</li>
+</ul>
