@@ -1,6 +1,6 @@
 <h1 align="center"><a> TRAGAMORAS</a></h1>
 
-<p align="center"><img src="/Imagenes/1.png" alt="LOGO TragaMoras" width="200"></p>
+<p align="center"><img src="/Evidencias/1.png" alt="LOGO TragaMoras" width="200"></p>
 
 <h2>Participantes:</h2>
 <ul>
@@ -19,7 +19,7 @@
 
 
 
-<h2>Costos</h2>
+<h2>II. Costos</h2>
   <table>
     <thead>
     <tr>
@@ -228,5 +228,99 @@
       </tr>
     </tbody>
   </table>
+<h1>III.	Desarrollo del proyecto</h1>
+<ul>
+<p>1.  Se empezó soldando los pines del lector RFID y la búsqueda de librerías para el uso del lector en el Arduino, así como la realización del código que se adapte a la forma en cómo se comunicara con la Raspberry.</p>
+  
+  <p align="center"><img src="/Evidencias/Imagen1.jpg" alt="Imagen 1" width="200"></p>
+  <p align="center"><img src="/Evidencias/Imagen2.jpg" alt="Imagen 2" width="200"></p>
+  
+<p>2.  Se prepararon los programas necesarios en la Raspberry para realizar el proyecto y probarlo en esta misma, así como descargar librerias necesarias para establecer a conexión entre el Arduino y la Raspberry.</p>
 
+<p>3.  Se realizo la interfaz del juego y se diseñó su funcionamiento dentro del framework kivy en el cual se realizó la conexión entre la Raspberry y el Arduino.</p>
 
+<table>
+
+  <tr>
+    <td><img src="" alt="LOGO TragaMoras" width="200"></td>
+    <td><img src="" alt="LOGO TragaMoras" width="200"></td>
+  </tr>
+</table>
+<img src="" alt="LOGO TragaMoras" width="200">
+
+<p>4.  Se realizaron pruebas de funcionamiento de la pantalla y el touch de esta identificando como realizar la conexión de esta a la Raspberry.</p>
+<img src="" alt="LOGO TragaMoras" width="200">
+
+<p>5.  Realizar un control de versiones del código utilizado para el programa por números a cada versión para prevenir en caso de que el código llegue a fallar con las nuevas actualizaciones a este.</p>
+
+<p>6.  Se realizo un diseño personalizado, destinado a las tarjetas RFID, esto con el fin de facilitar la ubicación del chip.</p>
+
+<table align="center">
+
+  <tr>
+    <td><img src="/Imagenes/1.png" alt="LOGO TragaMoras" width="200"></td>
+    <td><img src="/Imagenes/1.png" alt="LOGO TragaMoras" width="200"></td>
+  </tr>
+</table>
+<br>
+<img src="/Imagenes/1.png" alt="LOGO TragaMoras" width="200">
+
+<p>7.  Integración de un led en el circuito para visualizar una nueva inserción de tarjeta RFID sobre el lector RFID.</p>
+
+<table align="center" >
+
+  <tr>
+    <td><img src="" alt="LOGO TragaMoras" width="200"></td>
+    <td><img src="" alt="LOGO TragaMoras" width="200"></td>
+  </tr>
+</table>
+
+<table>
+
+  <tr>
+    <td><img src="" alt="LOGO TragaMoras" width="200"></td>
+    <td><img src="" alt="LOGO TragaMoras" width="200"></td>
+  </tr>
+</table>
+
+<p>8.  Soldado del circuito realizado en una tarjeta perforada para su integración rápida con el Arduino.</p>
+<img src="" alt="LOGO TragaMoras" width="200">
+
+<p>9.  Desarrollo de la base de datos para administrar las tarjetas y su crédito, así como realizar conexión de esta con el programa.</p>
+<img src="" alt="LOGO TragaMoras" width="200">
+
+<p>10.	Optimización de interfaz del programa integrando un apartado para registrar tarjetas y otro para el juego, así como integrar avisos cuando pierdo o gana en el juego.</p>
+
+<p align="center">
+<img src="" alt="LOGO TragaMoras" width="200"></td>
+    <td><img src="" alt="LOGO TragaMoras" width="200"></td></p>
+    
+<img src="" alt="LOGO TragaMoras" width="200">
+
+<p>11.	Integración de la pantalla touch y conexión a Base de datos remota con el proyecto y probar su funcionalidad detectando fallas en el sistema.</p>
+<img src="" alt="LOGO TragaMoras" width="200">
+
+<p>12.	Realización de pruebas en el programa realizando depuración de código y optimización de funciones dentro de este, así como integrar mejoras graficas.</p>
+
+<p aling="center"><img src="" alt="LOGO TragaMoras" width="200">
+<img src="" alt="LOGO TragaMoras" width="200"></p>
+
+<p aling="center"><img src="" alt="LOGO TragaMoras" width="200">
+<img src="" alt="LOGO TragaMoras" width="200"></p>
+
+<img src="" alt="LOGO TragaMoras" width="200">
+
+<p>13.	Diseño y desarrollo del gabinete para los componentes del proyecto.</p>
+<img src="" alt="LOGO TragaMoras" width="200">
+<img src="" alt="LOGO TragaMoras" width="200">
+<img src="" alt="LOGO TragaMoras" width="200">
+<img src="" alt="LOGO TragaMoras" width="200">
+
+<p>14.	Realizar los últimos ajustes al programa, así como decoración del gabinete y mejora grafica del programa.</p>
+
+<h1>III.	Desarrollo del proyecto</h1>
+
+<img src="" alt="LOGO TragaMoras" width="200">
+<img src="" alt="LOGO TragaMoras" width="200">
+<img src="" alt="LOGO TragaMoras" width="200">
+<img src="" alt="LOGO TragaMoras" width="200">
