@@ -237,17 +237,15 @@
 
   
 <p>2.  Se prepararon los programas necesarios en la Raspberry para realizar el proyecto y probarlo en esta misma, así como descargar librerias necesarias para establecer a conexión entre el Arduino y la Raspberry.</p>
+<img src="/Evidencias/Imagen3.jpg" alt="LOGO TragaMoras" width="300">
 
 <p>3.  Se realizo la interfaz del juego y se diseñó su funcionamiento dentro del framework kivy en el cual se realizó la conexión entre la Raspberry y el Arduino.</p>
 
   <p align="center">
-    <img src="/Evidencias/Imagen3.jpg" alt="LOGO TragaMoras" width="300">
+    <img src="/Evidencias/Imagen5.jpg" alt="LOGO TragaMoras" width="300">
     <img src="/Evidencias/Imagen4.jpg" alt="LOGO TragaMoras" width="300">
   </p>
-    <p align="center">
-    <img src="/Evidencias/Imagen5.jpg" alt="LOGO TragaMoras" width="300">
-    </p>
-
+  
 <p>4.  Se realizaron pruebas de funcionamiento de la pantalla y el touch de esta identificando como realizar la conexión de esta a la Raspberry.</p>
  <p align="center">
 <img src="/Evidencias/Imagen6.jpg" alt="LOGO TragaMoras" width="300">
