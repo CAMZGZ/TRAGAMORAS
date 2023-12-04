@@ -267,7 +267,7 @@
 
 <p>7.  Integración de un led en el circuito para visualizar una nueva inserción de tarjeta RFID sobre el lector RFID.</p>
 
-<table>
+<table align="center" >
 
   <tr>
     <td><img src="" alt="LOGO TragaMoras" width="200"></td>
