@@ -232,8 +232,8 @@
 <ul>
 <p>1.  Se empezó soldando los pines del lector RFID y la búsqueda de librerías para el uso del lector en el Arduino, así como la realización del código que se adapte a la forma en cómo se comunicara con la Raspberry.</p>
   
-  <p align="center"><img src="/Evidencias/Imagen1.jpg" alt="Imagen 1" width="200"></p>
-  <p align="center"><img src="/Evidencias/Imagen2.jpg" alt="Imagen 2" width="200"></p>
+  <p align="center"><img src="/Evidencias/Imagen1.jpg" alt="Imagen 1" width="300"></p>
+  <p align="center"><img src="/Evidencias/Imagen2.jpg" alt="Imagen 2" width="300"></p>
 
   
 <p>2.  Se prepararon los programas necesarios en la Raspberry para realizar el proyecto y probarlo en esta misma, así como descargar librerias necesarias para establecer a conexión entre el Arduino y la Raspberry.</p>
@@ -241,106 +241,106 @@
 <p>3.  Se realizo la interfaz del juego y se diseñó su funcionamiento dentro del framework kivy en el cual se realizó la conexión entre la Raspberry y el Arduino.</p>
 
   <p align="center">
-    <img src="/Evidencias/Imagen3.jpg" alt="LOGO TragaMoras" width="200">
-    <img src="/Evidencias/Imagen4.jpg" alt="LOGO TragaMoras" width="200">
+    <img src="/Evidencias/Imagen3.jpg" alt="LOGO TragaMoras" width="300">
+    <img src="/Evidencias/Imagen4.jpg" alt="LOGO TragaMoras" width="300">
   </p>
     <p align="center">
-    <img src="/Evidencias/Imagen5.jpg" alt="LOGO TragaMoras" width="200">
+    <img src="/Evidencias/Imagen5.jpg" alt="LOGO TragaMoras" width="300">
     </p>
 
 <p>4.  Se realizaron pruebas de funcionamiento de la pantalla y el touch de esta identificando como realizar la conexión de esta a la Raspberry.</p>
  <p align="center">
-<img src="/Evidencias/Imagen6.jpg" alt="LOGO TragaMoras" width="200">
+<img src="/Evidencias/Imagen6.jpg" alt="LOGO TragaMoras" width="300">
 </p>
 <p>5.  Realizar un control de versiones del código utilizado para el programa por números a cada versión para prevenir en caso de que el código llegue a fallar con las nuevas actualizaciones a este.</p>
 
 <p>6.  Se realizo un diseño personalizado, destinado a las tarjetas RFID, esto con el fin de facilitar la ubicación del chip.</p>
 
   <p align="center">
-    <img src="/Evidencias/Imagen7.jpg" alt="LOGO TragaMoras" width="200">
-    <img src="/Evidencias/Imagen8.png" alt="LOGO TragaMoras" width="200">
+    <img src="/Evidencias/Imagen7.jpg" alt="LOGO TragaMoras" width="300">
+    <img src="/Evidencias/Imagen8.png" alt="LOGO TragaMoras" width="300">
   </p>
    <p align="center">
-   <img src="/Evidencias/Imagen9.jpg" alt="LOGO TragaMoras" width="200">
+   <img src="/Evidencias/Imagen9.jpg" alt="LOGO TragaMoras" width="300">
    </p>
 
 <p>7.  Integración de un led en el circuito para visualizar una nueva inserción de tarjeta RFID sobre el lector RFID.</p>
 
   <p align="center">
-    <img src="/Evidencias/Imagen10.jpg" alt="LOGO TragaMoras" width="200">
-    <img src="/Evidencias/Imagen11.jpg" alt="LOGO TragaMoras" width="200">
+    <img src="/Evidencias/Imagen10.jpg" alt="LOGO TragaMoras" width="300">
+    <img src="/Evidencias/Imagen11.jpg" alt="LOGO TragaMoras" width="300">
   </p>
 
 <table>
 
   <p align="center">
-    <img src="/Evidencias/Imagen12.jpg" alt="LOGO TragaMoras" width="200">
-    <img src="/Evidencias/Imagen13.jpg" alt="LOGO TragaMoras" width="200">
+    <img src="/Evidencias/Imagen12.jpg" alt="LOGO TragaMoras" width="300">
+    <img src="/Evidencias/Imagen13.jpg" alt="LOGO TragaMoras" width="300">
   </p>
 
 <p>8.  Soldado del circuito realizado en una tarjeta perforada para su integración rápida con el Arduino.</p>
    <p align="center">
-   <img src="/Evidencias/Imagen14.jpg" alt="LOGO TragaMoras" width="200">
+   <img src="/Evidencias/Imagen14.jpg" alt="LOGO TragaMoras" width="300">
    </p>
 <p>9.  Desarrollo de la base de datos para administrar las tarjetas y su crédito, así como realizar conexión de esta con el programa.</p>
    <p align="center">
-   <img src="/Evidencias/Imagen15.jpg" alt="LOGO TragaMoras" width="200">
+   <img src="/Evidencias/Imagen15.jpg" alt="LOGO TragaMoras" width="300">
    </p>
 <p>10.	Optimización de interfaz del programa integrando un apartado para registrar tarjetas y otro para el juego, así como integrar avisos cuando pierdo o gana en el juego.</p>
 
 <p align="center">
-<img src="/Evidencias/Imagen16.jpg" alt="LOGO TragaMoras" width="200">
-<img src="/Evidencias/Imagen17.jpg" alt="LOGO TragaMoras" width="200">    
-<img src="/Evidencias/Imagen18.png" alt="LOGO TragaMoras" width="200">
+<img src="/Evidencias/Imagen16.jpg" alt="LOGO TragaMoras" width="300">
+<img src="/Evidencias/Imagen17.jpg" alt="LOGO TragaMoras" width="300">    
+<img src="/Evidencias/Imagen18.png" alt="LOGO TragaMoras" width="300">
 </p>
 <p>11.	Integración de la pantalla touch y conexión a Base de datos remota con el proyecto y probar su funcionalidad detectando fallas en el sistema.</p>
    <p align="center">
-   <img src="/Evidencias/Imagen19.jpg" alt="LOGO TragaMoras" width="200">
+   <img src="/Evidencias/Imagen19.jpg" alt="LOGO TragaMoras" width="300">
    </p>
 <p>12.	Realización de pruebas en el programa realizando depuración de código y optimización de funciones dentro de este, así como integrar mejoras graficas.</p>
 
   <p align="center">
-    <img src="/Evidencias/Imagen20.jpg" alt="LOGO TragaMoras" width="200">
-    <img src="/Evidencias/Imagen21.jpg" alt="LOGO TragaMoras" width="200">
+    <img src="/Evidencias/Imagen20.jpg" alt="LOGO TragaMoras" width="300">
+    <img src="/Evidencias/Imagen21.jpg" alt="LOGO TragaMoras" width="300">
   </p>
 
   <p align="center">
-    <img src="/Evidencias/Imagen22.jpg" alt="LOGO TragaMoras" width="200">
-    <img src="/Evidencias/Imagen23.jpg" alt="LOGO TragaMoras" width="200">
+    <img src="/Evidencias/Imagen22.jpg" alt="LOGO TragaMoras" width="300">
+    <img src="/Evidencias/Imagen23.jpg" alt="LOGO TragaMoras" width="300">
   </p>
 
-<img src="" alt="LOGO TragaMoras" width="200">
-
+   <p align="center">
+   <img src="/Evidencias/Imagen24.jpg" alt="LOGO TragaMoras" width="300">
+   </p>
 <p>13.	Diseño y desarrollo del gabinete para los componentes del proyecto.</p>
    <p align="center">
-   <img src="/Evidencias/Imagen24.jpg" alt="LOGO TragaMoras" width="200">
+   <img src="/Evidencias/Imagen25.jpg" alt="LOGO TragaMoras" width="300">
    </p>
    <p align="center">
-   <img src="/Evidencias/Imagen25.jpg" alt="LOGO TragaMoras" width="200">
+   <img src="/Evidencias/Imagen26.jpg" alt="LOGO TragaMoras" width="300">
    </p>
    <p align="center">
-   <img src="/Evidencias/Imagen26.jpg" alt="LOGO TragaMoras" width="200">
+   <img src="/Evidencias/Imagen27.jpg" alt="LOGO TragaMoras" width="300">
    </p>
    <p align="center">
-   <img src="/Evidencias/Imagen27.jpg" alt="LOGO TragaMoras" width="200">
+   <img src="/Evidencias/Imagen28.jpg" alt="LOGO TragaMoras" width="300">
    </p>
 <p>14.	Realizar los últimos ajustes al programa, así como decoración del gabinete y mejora grafica del programa.</p>
 
 <h2>IV.	Resultados</h2>
 
    <p align="center">
-   <img src="/Evidencias/Imagen28.jpg" alt="LOGO TragaMoras" width="200">
+   <img src="/Evidencias/Imagen29.jpg" alt="LOGO TragaMoras" width="300">
    </p>
    <p align="center">
-   <img src="/Evidencias/Imagen29.jpg" alt="LOGO TragaMoras" width="200">
+   <img src="/Evidencias/Imagen30.jpg" alt="LOGO TragaMoras" width="300">
    </p>
    <p align="center">
-   <img src="/Evidencias/Imagen30.jpg" alt="LOGO TragaMoras" width="200">
+   <img src="/Evidencias/Imagen31.jpg" alt="LOGO TragaMoras" width="300">
    </p>
    <p align="center">
-   <img src="/Evidencias/Imagen31.jpg" alt="LOGO TragaMoras" width="200">
+   <img src="/Evidencias/Imagen32.jpg" alt="LOGO TragaMoras" width="300">
    </p>
-
 <h2>V. Recomendaciones</h2>
 <p>En la búsqueda continua de mejoras y optimizaciones para el programa de tiros con tarjeta, se han identificado áreas clave que podrían beneficiarse de futuras intervenciones. Estas sugerencias están dirigidas a mejorar la experiencia del usuario y garantizar un uso más eficiente del programa.</p>
 <p>
