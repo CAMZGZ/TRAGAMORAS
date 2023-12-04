@@ -275,19 +275,18 @@
     <img src="/Evidencias/Imagen12.jpg" alt="LOGO TragaMoras" width="300">
     <img src="/Evidencias/Imagen13.jpg" alt="LOGO TragaMoras" width="300">
   </p>
+  <p align="center">
+    <img src="/Evidencias/Imagen14.jpg" alt="LOGO TragaMoras" width="300">
+    <img src="/Evidencias/Imagen15.jpg" alt="LOGO TragaMoras" width="300">
+  </p>
 
 <p>8.  Soldado del circuito realizado en una tarjeta perforada para su integración rápida con el Arduino.</p>
-   <p align="center">
-   <img src="/Evidencias/Imagen14.jpg" alt="LOGO TragaMoras" width="300">
-   </p>
+<p align="center"><img src="/Evidencias/Imagen16.jpg" alt="LOGO TragaMoras" width="300"></p>
 <p>9.  Desarrollo de la base de datos para administrar las tarjetas y su crédito, así como realizar conexión de esta con el programa.</p>
-   <p align="center">
-   <img src="/Evidencias/Imagen15.jpg" alt="LOGO TragaMoras" width="300">
-   </p>
+
 <p>10.	Optimización de interfaz del programa integrando un apartado para registrar tarjetas y otro para el juego, así como integrar avisos cuando pierdo o gana en el juego.</p>
 
 <p align="center">
-<img src="/Evidencias/Imagen16.jpg" alt="LOGO TragaMoras" width="300">
 <img src="/Evidencias/Imagen17.jpg" alt="LOGO TragaMoras" width="300">    
 <img src="/Evidencias/Imagen18.png" alt="LOGO TragaMoras" width="300">
 </p>
