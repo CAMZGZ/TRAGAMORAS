@@ -112,18 +112,12 @@
         <td>$1.0</td>
       </tr>
       <!-- ... (filas restantes) ... -->
-      <tr>
-        <td colspan="4">Total</td>
-        <td>$4,031.65</td>
-      </tr>
               <td>12</td>
         <td>Cable para protoboard (1m).</td>
         <td>1</td>
         <td>$8.00</td>
         <td>$8.00</td>
-        <td></td>
-        <td></td>
-        <td></td>
+
     </tr>
     <tr>
         <td>13</td>
@@ -131,9 +125,6 @@
         <td>1</td>
         <td></td>
         <td>$0.00</td>
-        <td></td>
-        <td></td>
-        <td></td>
     </tr>
     <tr>
         <td>14</td>
@@ -141,9 +132,6 @@
         <td>1</td>
         <td>$20.00</td>
         <td>$20.00</td>
-        <td></td>
-        <td></td>
-        <td></td>
     </tr>
     <tr>
         <td>15</td>
@@ -151,9 +139,7 @@
         <td>1</td>
         <td>$15.00</td>
         <td>$15.00</td>
-        <td></td>
-        <td></td>
-        <td></td>
+
     </tr>
     <tr>
         <td>16</td>
@@ -161,9 +147,7 @@
         <td>1</td>
         <td>$15.00</td>
         <td>$15.00</td>
-        <td></td>
-        <td></td>
-        <td></td>
+
     </tr>
     <tr>
         <td>17</td>
@@ -171,9 +155,7 @@
         <td>1</td>
         <td>$3.00</td>
         <td>$3.00</td>
-        <td></td>
-        <td></td>
-        <td></td>
+
     </tr>
     <tr>
         <td>18</td>
@@ -181,9 +163,7 @@
         <td>1</td>
         <td>$30.00</td>
         <td>$30.00</td>
-        <td></td>
-        <td></td>
-        <td></td>
+
     </tr>
     <tr>
         <td>19</td>
@@ -191,9 +171,7 @@
         <td>1</td>
         <td>$13.00</td>
         <td>$13.00</td>
-        <td></td>
-        <td></td>
-        <td></td>
+        
     </tr>
     <tr>
         <td>20</td>
@@ -201,9 +179,7 @@
         <td>1</td>
         <td>$12.00</td>
         <td>$12.00</td>
-        <td></td>
-        <td></td>
-        <td></td>
+
     </tr>
     <tr>
         <td>21</td>
@@ -211,9 +187,7 @@
         <td>1</td>
         <td>$17.00</td>
         <td>$17.00</td>
-        <td></td>
-        <td></td>
-        <td></td>
+
     </tr>
     <tr>
         <td>22</td>
@@ -221,9 +195,7 @@
         <td>1</td>
         <td>$120.00</td>
         <td>$120.00</td>
-        <td></td>
-        <td></td>
-        <td></td>
+
     </tr>
     <tr>
         <td>23</td>
@@ -231,9 +203,7 @@
         <td>1</td>
         <td>$80.00</td>
         <td>$80.00</td>
-        <td></td>
-        <td></td>
-        <td></td>
+
     </tr>
     <tr>
         <td>24</td>
@@ -241,9 +211,7 @@
         <td>1</td>
         <td>$100.00</td>
         <td>$100.00</td>
-        <td></td>
-        <td></td>
-        <td></td>
+
     </tr>
     <tr>
         <td>25</td>
@@ -251,9 +219,7 @@
         <td>2</td>
         <td>$41.00</td>
         <td>$82.00</td>
-        <td></td>
-        <td></td>
-        <td></td>
+
     </tr>
     <tr>
         <td>26</td>
@@ -261,9 +227,7 @@
         <td>1</td>
         <td>$199.00</td>
         <td>$199.00</td>
-        <td></td>
-        <td></td>
-        <td></td>
+
     </tr>
     <tr>
         <td>27</td>
@@ -271,9 +235,6 @@
         <td>2</td>
         <td>$15.00</td>
         <td>$30.00</td>
-        <td></td>
-        <td></td>
-        <td></td>
     </tr>
       <tr>
         <td colspan="4">Total</td>
