@@ -261,14 +261,13 @@
 
    <p align="center">
    <img src="/Evidencias/Imagen9.jpg" alt="LOGO TragaMoras" width="300">
+     <img src="/Evidencias/Imagen10.jpg" alt="LOGO TragaMoras" width="300">
    </p>
-
-<p>7.  Integración de un led en el circuito para visualizar una nueva inserción de tarjeta RFID sobre el lector RFID.</p>
-
-  <p align="center">
-    <img src="/Evidencias/Imagen10.jpg" alt="LOGO TragaMoras" width="300">
+   <p align="center">
     <img src="/Evidencias/Imagen11.jpg" alt="LOGO TragaMoras" width="300">
   </p>
+
+<p>7.  Integración de un led en el circuito para visualizar una nueva inserción de tarjeta RFID sobre el lector RFID.</p>
 
 <table>
 
