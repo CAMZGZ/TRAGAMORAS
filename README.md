@@ -251,7 +251,7 @@
 
 <p>4.  Se realizaron pruebas de funcionamiento de la pantalla y el touch de esta identificando como realizar la conexión de esta a la Raspberry.</p>
  <p align="center">
-<img src="/Evidencias/Imagen6.jpg" alt="LOGO TragaMoras" width="300">
+<img src="/Evidencias/Imagen7.jpg" alt="LOGO TragaMoras" width="300">
 </p>
 <p>5.  Realizar un control de versiones del código utilizado para el programa por números a cada versión para prevenir en caso de que el código llegue a fallar con las nuevas actualizaciones a este.</p>
 <p align="center">
