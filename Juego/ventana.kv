@@ -1,0 +1,261 @@
+WindowManager:
+    Inicio:
+    Juego:
+
+<Inicio>:
+    name: "Inicio"
+    
+    BoxLayout:
+        orientation: 'vertical'
+        size_hint: 1, 1
+        canvas.before:
+            Rectangle:
+                pos: self.pos
+                size: self.size
+                source: 'sky2.png'
+
+        BoxLayout:
+            orientation: 'horizontal'
+            size_hint: 1, 0.2
+            
+            Label:
+                text: "TRAGAMORAS"
+                font_size: 100
+                size_hint: 0.8, 1
+
+            RoundedButton2:
+                canvas.before:
+                    Rectangle:
+                        pos: self.pos
+                        size: self.size
+                        source: 'arrow.png'
+                #text: "JUGAR"
+                font_size: 30
+                size_hint: 0.2, 1
+                on_release: 
+                    app.root.current = "Juego"
+                    root.manager.transition.direction = "left"
+
+        BoxLayout:
+            orientation: 'vertical'
+            size_hint: 1, 0.8
+            pos_hint: {'center_x': 0.5, 'center_y': 0.5}
+
+            Label:
+                id: tarjeta_rfid
+                text: 'Esperando Tarjeta...'
+                font_size: 50
+                size_hint: 1, 0.5
+
+            RoundedButton:
+                text: 'REGISTRAR'
+                font_size: 30
+                size_hint: 0.5, 0.1
+                pos_hint: {'center_x': 0.5, 'center_y': 0.5}
+                on_press: root.leer_tarjeta(self)
+
+<Juego>:
+    name: "Juego"
+
+    BoxLayout:
+        orientation: 'vertical'
+        canvas.before:
+            Rectangle:
+                pos: self.pos
+                size: self.size
+                source: 'coins.png' 
+
+        BoxLayout:
+            orientation: 'horizontal'
+            size_hint: 1, 0.2
+
+            RoundedButton2:
+                canvas.before:
+                    Rectangle:
+                        pos: self.pos
+                        size: self.size
+                        source: 'tar.png'
+                #text: "<"
+                font_size: 80
+                size_hint: 0.2, 0.8
+                on_release: 
+                    app.root.current = "Inicio"
+                    root.manager.transition.direction = "right"
+            
+            Label:
+                #text: "TRAGAMORAS"
+                font_size: 30
+                size_hint: 0.8, 1
+
+        BoxLayout:
+            orientation: 'vertical'
+            size_hint: 1, 0.8
+
+            # Add GridLayout to center
+            GridLayout:
+                id: result_grid
+                cols: 3
+                spacing: 10
+                size_hint: 0.8, 0.8
+                pos_hint: {'center_x': 0.5, 'center_y': 0.5}
+
+                Label:
+                    id: result_label1
+                    text: ''
+                    font_size: 180
+                    color: 0, 0, 0, 1
+                    canvas.before:
+                        Color:
+                            rgba: 1, 1, 1, 1
+                        RoundedRectangle:
+                            pos: self.pos
+                            size: self.size
+                            radius: [20]
+
+                Label:
+                    id: result_label2
+                    text: ''
+                    font_size: 180
+                    color: 0, 0, 0, 1
+                    canvas.before:
+                        Color:
+                            rgba: 1, 1, 1, 1
+                        RoundedRectangle:
+                            pos: self.pos
+                            size: self.size
+                            radius: [20]
+                Label:
+                    id: result_label3
+                    text: ''
+                    font_size: 180
+                    color: 0, 0, 0, 1
+                    canvas.before:
+                        Color:
+                            rgba: 1, 1, 1, 1
+                        RoundedRectangle:
+                            pos: self.pos
+                            size: self.size
+                            radius: [20]
+                
+            # Add spin_button to bottom
+            BoxLayout:
+                size_hint: 0.8, 0.5
+                pos_hint: {'center_x': 0.5}
+
+                RoundedSpin:
+                    id: spin_button
+                    text: 'TIRAR'
+                    font_size: 120
+                    size_hint: 0.8, 0.8
+                    disabled: False
+                    on_press: root.spin(self)
+
+<WinPopup>:
+    title: 'Resultado'
+    #background_color: (0, 0, 0, 1) # Color de fondo amarillo (valores RGBA)
+    background: 'coins.png'
+    BoxLayout:
+        orientation: 'vertical'
+        #size_hint: None, None
+        size: 300, 300  # Tamaño del popup
+        pos_hint: {'center_x': 0.5, 'center_y': 0.5}  # Posición centrada
+        Label:
+            text: 'GANASTE'
+            font_size: 80
+            size_hint: 1, 0.2
+            color: 1, 1, 1, 1
+        Image:
+            source: '1.png'  # Ruta de la imagen
+            size_hint: 1, 1
+            allow_stretch: True
+            keep_ratio: False
+        BoxLayout:
+            orientation: 'horizontal'
+            size_hint: 1, 0.3
+            Label:
+                size_hint: 0.2, 0.5
+            RoundedButton:
+                text: "REINTENTAR"
+                font_size: 100
+                size_hint: 0.6, 0.5
+                on_release: root.dismiss()
+            Label:
+                size_hint: 0.2, 0.5
+<LosePopup>:
+    title: 'Resultado'
+    #background_color: (0, 0, 150, 1) # Color de fondo amarillo (valores RGBA)
+    background: 'sky.png'
+    BoxLayout:
+        orientation: 'vertical'
+        #size_hint: None, None
+        size: 300, 300  # Tamaño del popup
+        pos_hint: {'center_x': 0.5, 'center_y': 0.5}  # Posición centrada
+        Label:
+            text: 'PERDISTE'
+            font_size: 80
+            size_hint: 1, 0.2
+            color: 1, 1, 1, 1
+        Image:
+            source: '2.png'  # Ruta de la imagen
+            size_hint: 1, 1
+            allow_stretch: True
+            keep_ratio: False
+        BoxLayout:
+            orientation: 'horizontal'
+            size_hint: 1, 0.3
+            Label:
+                size_hint: 0.2, 0.5
+            RoundedButton:
+                text: "REINTENTAR"
+                font_size: 100
+                size_hint: 0.6, 0.5
+                on_release: root.dismiss()
+            Label:
+                size_hint: 0.2, 0.5
+
+<RoundedButton@Button>
+    background_color: (0,0,0,0)
+    background_normal: ''
+    background_down: ''
+    canvas.before:
+        Color:
+            rgba: (48/255,84/255,150/255,1)
+        RoundedRectangle:
+            pos: self.pos
+            size: self.size
+            radius: [80]
+
+<RoundedSpin@Button>
+    background_color: (0,0,0,0)
+    background_normal: ''
+    background_down: ''
+    canvas.before:
+        Color:
+            rgba: (0.8, 0.6, 0.0, 1)
+        RoundedRectangle:
+            pos: self.pos
+            size: self.size
+            radius: [10]
+
+<RoundedButton2@Button>
+    background_color: (0,0,0,0)
+    background_normal: ''
+    background_down: ''
+    canvas.before:
+        Color:
+            rgba: (255,255,255,1)
+        RoundedRectangle:
+            pos: self.pos
+            size: self.size
+            radius: [20]
+
+<LabelAviso@Lavel>
+    background_color: (0,0,0,0)
+    color: 0, 0, 0, 1
+    canvas.before:
+        Color:
+            rgba: (255,255,255,1)
+        RoundedRectangle:
+            pos: self.pos
+            size: self.size
+            radius: [80]
