@@ -255,7 +255,7 @@
 
 <p>6.  Se realizo un diseño personalizado, destinado a las tarjetas RFID, esto con el fin de facilitar la ubicación del chip.</p>
 
-<table>
+<table align="center">
 
   <tr>
     <td><img src="/Imagenes/1.png" alt="LOGO TragaMoras" width="200"></td>
