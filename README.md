@@ -258,7 +258,7 @@
 
   <p align="center">
     <img src="/Evidencias/Imagen7.jpg" alt="LOGO TragaMoras" width="200">
-    <img src="/Evidencias/Imagen8.jpg" alt="LOGO TragaMoras" width="200">
+    <img src="/Evidencias/Imagen8.png" alt="LOGO TragaMoras" width="200">
   </p>
    <p align="center">
    <img src="/Evidencias/Imagen9.jpg" alt="LOGO TragaMoras" width="200">
@@ -291,7 +291,7 @@
 <p align="center">
 <img src="/Evidencias/Imagen16.jpg" alt="LOGO TragaMoras" width="200">
 <img src="/Evidencias/Imagen17.jpg" alt="LOGO TragaMoras" width="200">    
-<img src="/Evidencias/Imagen18.jpg" alt="LOGO TragaMoras" width="200">
+<img src="/Evidencias/Imagen18.png" alt="LOGO TragaMoras" width="200">
 </p>
 <p>11.	Integración de la pantalla touch y conexión a Base de datos remota con el proyecto y probar su funcionalidad detectando fallas en el sistema.</p>
    <p align="center">
