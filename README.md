@@ -255,13 +255,10 @@
 </p>
 <p>5.  Realizar un control de versiones del código utilizado para el programa por números a cada versión para prevenir en caso de que el código llegue a fallar con las nuevas actualizaciones a este.</p>
 <p align="center">
-    <img src="/Evidencias/Imagen8.jpg" alt="LOGO TragaMoras" width="300"></p>
+    <img src="/Evidencias/Imagen8.png" alt="LOGO TragaMoras" width="300"></p>
 
 <p>6.  Se realizo un diseño personalizado, destinado a las tarjetas RFID, esto con el fin de facilitar la ubicación del chip.</p>
 
-  <p align="center">
-    <img src="/Evidencias/Imagen8.png" alt="LOGO TragaMoras" width="300">
-  </p>
    <p align="center">
    <img src="/Evidencias/Imagen9.jpg" alt="LOGO TragaMoras" width="300">
    </p>
