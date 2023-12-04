@@ -228,7 +228,7 @@
       </tr>
     </tbody>
   </table>
-<h1>III.	Desarrollo del proyecto</h1>
+<h2>III.	Desarrollo del proyecto</h2>
 <ul>
 <p>1.  Se empezó soldando los pines del lector RFID y la búsqueda de librerías para el uso del lector en el Arduino, así como la realización del código que se adapte a la forma en cómo se comunicara con la Raspberry.</p>
   
@@ -240,89 +240,126 @@
 
 <p>3.  Se realizo la interfaz del juego y se diseñó su funcionamiento dentro del framework kivy en el cual se realizó la conexión entre la Raspberry y el Arduino.</p>
 
-<table>
-
-  <tr>
-    <td><img src="" alt="LOGO TragaMoras" width="200"></td>
-    <td><img src="" alt="LOGO TragaMoras" width="200"></td>
-  </tr>
-</table>
-<img src="" alt="LOGO TragaMoras" width="200">
+  <p align="center">
+    <img src="/Evidencias/Imagen3.jpg" alt="LOGO TragaMoras" width="200">
+    <img src="/Evidencias/Imagen4.jpg" alt="LOGO TragaMoras" width="200">
+  </p>
+    <p align="center">
+    <img src="/Evidencias/Imagen5.jpg" alt="LOGO TragaMoras" width="200">
+    </p>
 
 <p>4.  Se realizaron pruebas de funcionamiento de la pantalla y el touch de esta identificando como realizar la conexión de esta a la Raspberry.</p>
-<img src="" alt="LOGO TragaMoras" width="200">
-
+ <p align="center">
+<img src="/Evidencias/Imagen6.jpg" alt="LOGO TragaMoras" width="200">
+</p>
 <p>5.  Realizar un control de versiones del código utilizado para el programa por números a cada versión para prevenir en caso de que el código llegue a fallar con las nuevas actualizaciones a este.</p>
 
 <p>6.  Se realizo un diseño personalizado, destinado a las tarjetas RFID, esto con el fin de facilitar la ubicación del chip.</p>
 
-<table align="center">
-
-  <tr>
-    <td><img src="/Imagenes/1.png" alt="LOGO TragaMoras" width="200"></td>
-    <td><img src="/Imagenes/1.png" alt="LOGO TragaMoras" width="200"></td>
-  </tr>
-</table>
-<br>
-<img src="/Imagenes/1.png" alt="LOGO TragaMoras" width="200">
+  <p align="center">
+    <img src="/Evidencias/Imagen7.jpg" alt="LOGO TragaMoras" width="200">
+    <img src="/Evidencias/Imagen8.jpg" alt="LOGO TragaMoras" width="200">
+  </p>
+   <p align="center">
+   <img src="/Evidencias/Imagen9.jpg" alt="LOGO TragaMoras" width="200">
+   </p>
 
 <p>7.  Integración de un led en el circuito para visualizar una nueva inserción de tarjeta RFID sobre el lector RFID.</p>
 
-<table align="center" >
-
-  <tr>
-    <td><img src="" alt="LOGO TragaMoras" width="200"></td>
-    <td><img src="" alt="LOGO TragaMoras" width="200"></td>
-  </tr>
-</table>
+  <p align="center">
+    <img src="/Evidencias/Imagen10.jpg" alt="LOGO TragaMoras" width="200">
+    <img src="/Evidencias/Imagen11.jpg" alt="LOGO TragaMoras" width="200">
+  </p>
 
 <table>
 
-  <tr>
-    <td><img src="" alt="LOGO TragaMoras" width="200"></td>
-    <td><img src="" alt="LOGO TragaMoras" width="200"></td>
-  </tr>
-</table>
+  <p align="center">
+    <img src="/Evidencias/Imagen12.jpg" alt="LOGO TragaMoras" width="200">
+    <img src="/Evidencias/Imagen13.jpg" alt="LOGO TragaMoras" width="200">
+  </p>
 
 <p>8.  Soldado del circuito realizado en una tarjeta perforada para su integración rápida con el Arduino.</p>
-<img src="" alt="LOGO TragaMoras" width="200">
-
+   <p align="center">
+   <img src="/Evidencias/Imagen14.jpg" alt="LOGO TragaMoras" width="200">
+   </p>
 <p>9.  Desarrollo de la base de datos para administrar las tarjetas y su crédito, así como realizar conexión de esta con el programa.</p>
-<img src="" alt="LOGO TragaMoras" width="200">
-
+   <p align="center">
+   <img src="/Evidencias/Imagen15.jpg" alt="LOGO TragaMoras" width="200">
+   </p>
 <p>10.	Optimización de interfaz del programa integrando un apartado para registrar tarjetas y otro para el juego, así como integrar avisos cuando pierdo o gana en el juego.</p>
 
 <p align="center">
-<img src="" alt="LOGO TragaMoras" width="200"></td>
-    <td><img src="" alt="LOGO TragaMoras" width="200"></td></p>
-    
-<img src="" alt="LOGO TragaMoras" width="200">
-
+<img src="/Evidencias/Imagen16.jpg" alt="LOGO TragaMoras" width="200">
+<img src="/Evidencias/Imagen17.jpg" alt="LOGO TragaMoras" width="200">    
+<img src="/Evidencias/Imagen18.jpg" alt="LOGO TragaMoras" width="200">
+</p>
 <p>11.	Integración de la pantalla touch y conexión a Base de datos remota con el proyecto y probar su funcionalidad detectando fallas en el sistema.</p>
-<img src="" alt="LOGO TragaMoras" width="200">
-
+   <p align="center">
+   <img src="/Evidencias/Imagen19.jpg" alt="LOGO TragaMoras" width="200">
+   </p>
 <p>12.	Realización de pruebas en el programa realizando depuración de código y optimización de funciones dentro de este, así como integrar mejoras graficas.</p>
 
-<p aling="center"><img src="" alt="LOGO TragaMoras" width="200">
-<img src="" alt="LOGO TragaMoras" width="200"></p>
+  <p align="center">
+    <img src="/Evidencias/Imagen20.jpg" alt="LOGO TragaMoras" width="200">
+    <img src="/Evidencias/Imagen21.jpg" alt="LOGO TragaMoras" width="200">
+  </p>
 
-<p aling="center"><img src="" alt="LOGO TragaMoras" width="200">
-<img src="" alt="LOGO TragaMoras" width="200"></p>
+  <p align="center">
+    <img src="/Evidencias/Imagen22.jpg" alt="LOGO TragaMoras" width="200">
+    <img src="/Evidencias/Imagen23.jpg" alt="LOGO TragaMoras" width="200">
+  </p>
 
 <img src="" alt="LOGO TragaMoras" width="200">
 
 <p>13.	Diseño y desarrollo del gabinete para los componentes del proyecto.</p>
-<img src="" alt="LOGO TragaMoras" width="200">
-<img src="" alt="LOGO TragaMoras" width="200">
-<img src="" alt="LOGO TragaMoras" width="200">
-<img src="" alt="LOGO TragaMoras" width="200">
-
+   <p align="center">
+   <img src="/Evidencias/Imagen24.jpg" alt="LOGO TragaMoras" width="200">
+   </p>
+   <p align="center">
+   <img src="/Evidencias/Imagen25.jpg" alt="LOGO TragaMoras" width="200">
+   </p>
+   <p align="center">
+   <img src="/Evidencias/Imagen26.jpg" alt="LOGO TragaMoras" width="200">
+   </p>
+   <p align="center">
+   <img src="/Evidencias/Imagen27.jpg" alt="LOGO TragaMoras" width="200">
+   </p>
 <p>14.	Realizar los últimos ajustes al programa, así como decoración del gabinete y mejora grafica del programa.</p>
 
-<h1>III.	Desarrollo del proyecto</h1>
+<h2>IV.	Resultados</h2>
 
-<img src="" alt="LOGO TragaMoras" width="200">
-<img src="" alt="LOGO TragaMoras" width="200">
-<img src="" alt="LOGO TragaMoras" width="200">
-<img src="" alt="LOGO TragaMoras" width="200">
+   <p align="center">
+   <img src="/Evidencias/Imagen28.jpg" alt="LOGO TragaMoras" width="200">
+   </p>
+   <p align="center">
+   <img src="/Evidencias/Imagen29.jpg" alt="LOGO TragaMoras" width="200">
+   </p>
+   <p align="center">
+   <img src="/Evidencias/Imagen30.jpg" alt="LOGO TragaMoras" width="200">
+   </p>
+   <p align="center">
+   <img src="/Evidencias/Imagen31.jpg" alt="LOGO TragaMoras" width="200">
+   </p>
 
+<h2>V. Recomendaciones</h2>
+<p>En la búsqueda continua de mejoras y optimizaciones para el programa de tiros con tarjeta, se han identificado áreas clave que podrían beneficiarse de futuras intervenciones. Estas sugerencias están dirigidas a mejorar la experiencia del usuario y garantizar un uso más eficiente del programa.</p>
+<p>
+<b>1. Mejoras Gráficas y Atractivo Visual:</b>
+<br>
+Se recomienda considerar una revisión integral del aspecto gráfico del programa. Integrar elementos visuales más atractivos y modernos podría no solo incrementar la estética general, sino también mejorar la interacción del usuario. Se sugiere la exploración de tendencias actuales en diseño de interfaz de usuario y la posible colaboración con expertos en diseño gráfico para garantizar una implementación efectiva.
+</p>
+<p>
+<b>2. Integración de Bloqueo de Tiros por Saldo Insuficiente:</b>
+<br>
+Para fortalecer la gestión financiera y prevenir transacciones no autorizadas, se sugiere la implementación de un mecanismo de bloqueo automático de la realización de tiros cuando el crédito de la tarjeta excede un límite predefinido. Esto no solo protegerá al usuario de posibles inconvenientes financieros, sino que también fortalecerá la integridad del programa.
+</p>
+<p>
+<b>3. Personalización de Límites de Crédito:</b>
+<br>
+Para adaptarse a las necesidades individuales de los usuarios, se propone la inclusión de una función que permita la personalización de los límites de crédito. Esto proporcionaría flexibilidad al usuario final para ajustar los límites de acuerdo con sus preferencias y capacidades financieras.
+</p>
+<p>
+<b>4. Evaluación Continua del Feedback del Usuario:</b>
+<br>
+Se sugiere la implementación de un sistema de retroalimentación constante para evaluar la efectividad de las mejoras implementadas. Esto permitirá una adaptación continua a las necesidades cambiantes de los usuarios y garantizará la relevancia y eficiencia a lo largo del tiempo.
+</p>
