@@ -255,7 +255,7 @@
 
 <p>6.  Se realizo un diseño personalizado, destinado a las tarjetas RFID, esto con el fin de facilitar la ubicación del chip.</p>
 
-<table align="center" borderline=0>
+<table align="center">
 
   <tr>
     <td><img src="/Imagenes/1.png" alt="LOGO TragaMoras" width="200"></td>
@@ -291,12 +291,10 @@
 
 <p>10.	Optimización de interfaz del programa integrando un apartado para registrar tarjetas y otro para el juego, así como integrar avisos cuando pierdo o gana en el juego.</p>
 
-<table>
-  <tr>
-    <td><img src="" alt="LOGO TragaMoras" width="200"></td>
-    <td><img src="" alt="LOGO TragaMoras" width="200"></td>
-  </tr>
-</table>
+<p align="center">
+<img src="" alt="LOGO TragaMoras" width="200"></td>
+    <td><img src="" alt="LOGO TragaMoras" width="200"></td></p>
+    
 <img src="" alt="LOGO TragaMoras" width="200">
 
 <p>11.	Integración de la pantalla touch y conexión a Base de datos remota con el proyecto y probar su funcionalidad detectando fallas en el sistema.</p>
